@@ -1,4 +1,4 @@
-# Função **isEventHandlerAdded** (alternativa)
+# Função **isEventHandlerAdded** (alternativa) - Multi Theft Auto (MTA)
 Por enquanto esta função é funcional por resource, ou seja, ela não trabalha com mais de um resource, somente com aquele que você usou o código.
 ## Introdução de aplicação
 1. Coloque o arquivo no resource que você quer usar a função.
